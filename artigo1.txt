@@ -1,1 +1,3 @@
 Este é o artigo numero 1.
+
+Novo conteudo depois de ter adcionado o arquivo no stage.
